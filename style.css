@@ -1,0 +1,9 @@
+.ok{
+	display: none;
+	border: 3px solid green;
+}
+
+.error {
+	display: none;
+	border: 3px solid red;
+}
